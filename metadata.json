@@ -1,0 +1,8 @@
+{
+  "name": "LoopRewards",
+  "description": "A production-ready engagement and reward platform with robust anti-fraud, wallet management, and TikTok task systems, designed for Cloudflare-protected environments.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
